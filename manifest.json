@@ -1,0 +1,26 @@
+{
+  "short_name": "Mi Cybertnet App",
+  "name": "Mi Cybertnet App",
+  "icons": [
+    {
+      "src": "images/manifest0.png",
+      "type": "image/png",
+      "sizes": "250x250"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#305498",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#305498",
+  "shortcuts": [
+    {
+      "name": "Mi Cybertnet App",
+      "short_name": "Mi Cybertnet App",
+      "description": "Mi Cybertnet App",
+      "url": "/",
+      "icons": [{ "src": "/images/manifest0.png", "sizes": "250x250" }]
+    }
+  ],
+  "description": "Mi Cybertnet App"
+}
